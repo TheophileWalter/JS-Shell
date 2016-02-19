@@ -1,0 +1,1 @@
+// Ne fait rien (utilisable pour les commentaires)

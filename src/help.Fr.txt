@@ -1,0 +1,45 @@
+Liste des commandes, tapez <i>help commande</i> pour plus de détails
+
+  <a href="#help test">test</a>              Affiche un message de test
+  <a href="#help help">help</a>              Affiche la liste des commandes
+  <a href="#help javascript">javascript</a>        Exécute un code Javascript
+  <a href="#help js">js</a>                Allias vers <a href="#help javascript">javascript</a>
+  <a href="#help echo">echo</a>              Affiche du texte à l'écran
+  <a href="#help setDisplay">setDisplay</a>        Paramètre l'affichage des commandes dans la sortie
+  <a href="#help lang">lang</a>              Change la langue
+  <a href="#help clear">clear</a>             Vide la console
+  <a href="#help reset">reset</a>             Redémarre la console (en conservant les modifications)
+  <a href="#help restart">restart</a>           Redémarre la console (en oubliant les modifications)
+  <a href="#help langReset">langReset</a>         Change la langue puis redémarre la console
+  <a href="#help jsShell">jsShell</a>           Affiche des informations sur JS-SHELL
+  <a href="#help jss">jss</a>               Allias vers <a href="#help jsShell">jsShell</a>
+  <a href="#help openURI">openURI</a>           Ouvre une URI dans un nouvel onglet
+  <a href="#help date">date</a>              Affiche la date
+  <a href="#help time">time</a>              Affiche l'heure
+  <a href="#help showPic">showPic</a>           Affiche une image
+  <a href="#help type">type</a>              Affiche un fichier local
+  <a href="#help showCache">showCache</a>         Affiche la liste des fichiers en cache
+  <a href="#help clearCache">/sys/clearCache</a>   Supprime les fichiers en cache et les modifications apportées aux fichiers
+  <a href="#help edit">edit</a>              Edite un fichier
+  <a href="#help add">add</a>               Effectue une addition
+  <a href="#help sub">sub</a>               Effectue une soustraction
+  <a href="#help mul">mul</a>               Effectue une multiplication
+  <a href="#help div">div</a>               Effectue une division
+  <a href="#help alert">alert</a>             Affiche une alerte
+  <a href="#help if">if</a>                Evalue une expression
+  <a href="#help top">top</a>               Retourne en haut de la console
+  <a href="#help end">end</a>               Retourne en bas de la console
+  <a href="#help setOutFgColor">setOutFgColor</a>     Change la couleur du texte de l'interface de sortie
+  <a href="#help setOutBgColor">setOutBgColor</a>     Change la couleur de fond de l'interface de sortie
+  <a href="#help setInFgColor">setInFgColor</a>      Change la couleur du texte de l'interface d'entrée
+  <a href="#help setInBgColor">setInBgColor</a>      Change la couleur de fond de l'interface d'entrée
+  <a href="#help push">push</a>              Ajoute une valeur en haut de la pile
+  <a href="#help pop">pop</a>               Sort la valeur en haut de la pile
+  <a href="#help exch">exch</a>              Echange les deux valeurs en haut de la pile
+  <a href="#help showStack">showStack</a>         Affiche la pile
+  <a href="#help clearStack">clearStack</a>        Vide la pile
+  <a href="#help cm">cm</a>                Ne fait rien (utilisable pour les commentaires)
+  <a href="#help run">run</a>               Lance un fichier JSS (suite de commandes JSS)
+  <a href="#help pause">pause</a>             Met la console en pause
+  <a href="#help saveDisplay">saveDisplay</a>       Enregistre l'affichage actuel
+  <a href="#help restDisplay">restDisplay</a>       Restaure l'affichage précédemment sauvegardé

@@ -1,0 +1,45 @@
+Command List, type <i>help command</i> for details
+
+  <a href="#help test">test</a>              Displays a test message
+  <a href="#help help">help</a>              Displays a list of commands
+  <a href="#help javascript">javascript</a>        Execute un code Javascript
+  <a href="#help js">js</a>                Allias to <a href="#help javascript">javascript</a>
+  <a href="#help echo">echo</a>              Displays text on the screen
+  <a href="#help setDisplay">setDisplay</a>        Set the controls display in the output
+  <a href="#help lang">lang</a>              Change language
+  <a href="#help clear">clear</a>             Empty console
+  <a href="#help reset">reset</a>             Restart the console (keeping the changes)
+  <a href="#help restart">restart</a>           Restart the console (forgetting the changes)
+  <a href="#help langReset">langReset</a>         Change language and restart the console
+  <a href="#help jsShell">jsShell</a>           Displays information about JS-SHELL
+  <a href="#help jss">jss</a>               Allias to <a href="#help jsShell">jsShell</a>
+  <a href="#help openURI">openURI</a>           Opens a URI in a new tab
+  <a href="#help date">date</a>              Displays date
+  <a href="#help time">time</a>              Displays the time
+  <a href="#help showPic">showPic</a>           Displays an image
+  <a href="#help type">type</a>              View a local file
+  <a href="#help showCache">showCache</a>         Displays a list of cached files
+  <a href="#help clearCache">/sys/clearCache</a>   Deletes cached files and changes to files
+  <a href="#help edit">edit</a>              Edits a file
+  <a href="#help add">add</a>               Performs an addition
+  <a href="#help sub">sub</a>               Performs a subtraction
+  <a href="#help mul">mul</a>               Performs a multiplication
+  <a href="#help div">div</a>               Performs a division
+  <a href="#help alert">alert</a>             Displays an alert
+  <a href="#help if">if</a>                Evaluates an expression
+  <a href="#help top">top</a>               Return to the top of the console
+  <a href="#help end">end</a>               Return to the down of the console
+  <a href="#help setOutFgColor">setOutFgColor</a>     Change the text color of the output interface
+  <a href="#help setOutBgColor">setOutBgColor</a>     Change the background color of the output interface
+  <a href="#help setInFgColor">setInFgColor</a>      Change the text color of the input interface
+  <a href="#help setInBgColor">setInBgColor</a>      Change the background color of the input interface
+  <a href="#help push">push</a>              Adds a value on top of the stack
+  <a href="#help pop">pop</a>               Extract the value on top of the stack
+  <a href="#help exch">exch</a>              Swap the two values at the top of the stack
+  <a href="#help showStack">showStack</a>         Displays the stack
+  <a href="#help clearStack">clearStack</a>        Empty the stack
+  <a href="#help cm">cm</a>                Do nothing (used for comments)
+  <a href="#help run">run</a>               Launch a JSS file (sequence of JSS commands)
+  <a href="#help pause">pause</a>             Pauses the console
+  <a href="#help saveDisplay">saveDisplay</a>       Saves the current view
+  <a href="#help restDisplay">restDisplay</a>       Restore the previously saved view
